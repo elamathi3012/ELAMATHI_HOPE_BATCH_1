@@ -1,3 +1,5 @@
+package Day1_Tasks;
+
 
 public class range {
     public static void main(String[] args) {
@@ -9,10 +11,10 @@ public class range {
       short f = 32767;
       byte g =-128;
       byte h =127;
-        System.out.println("The range of integer is " + a+"to" + b);
-        System.out.println("The range of long is " + c+"to" + d);
-        System.out.println("The range of short is " + e+"to" + f);
-        System.out.println("The range of byte is " + g+"to" + h);
+        System.out.println("The range of integer is " + a+" to " + b);
+        System.out.println("The range of long is " + c+" to " + d);
+        System.out.println("The range of short is " + e+" to " + f);
+        System.out.println("The range of byte is " + g+" to " + h);
         
     }
 }
