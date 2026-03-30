@@ -13,6 +13,6 @@ public class simpleInheritance {
    public static void main(String[] args) {
     System.out.println("Inside Main Function");
     child c = new child();
-    c.display1();
+    c.display(1);
    } 
 }
