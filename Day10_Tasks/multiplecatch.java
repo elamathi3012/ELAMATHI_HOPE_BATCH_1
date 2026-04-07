@@ -1,4 +1,6 @@
-public class Main {
+package Day10_Tasks;
+
+public class multiplecatch {
     public static void main(String[] args) {
         try {
             int arr[] = {10, 20, 30};

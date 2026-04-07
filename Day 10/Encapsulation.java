@@ -7,7 +7,7 @@ class InsufficientBalanceException extends Exception {
 class BankAccount {
     int bal;
 
-    public BankAcc(int bal) {
+    public void BankAcc(int bal) {
         this.bal = bal;
     }
 

@@ -1,10 +1,11 @@
+package Day10_Tasks;
+
 class Vehicle {
     private String engineNumber;     // private
     String type;                     // default
     protected int speed;             // protected
     public String brand;             // public
 
-    // Getter & Setter for private variable
     public void setEngineNumber(String engineNumber) {
         this.engineNumber = engineNumber;
     }
@@ -70,4 +71,3 @@ public class access {
         sc.displaySportsCar();
     }
 }
-🧠 How this flows (like a story)

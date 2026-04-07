@@ -1,3 +1,5 @@
+package Day10_Tasks;
+
 class Car {
     
     private String brand;
